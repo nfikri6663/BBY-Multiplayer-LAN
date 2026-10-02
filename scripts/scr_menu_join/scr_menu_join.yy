@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_menu_join",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_menu_join",
+  "parent":{
+    "name":"Connection",
+    "path":"folders/Scripts/Networking/Connection.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_net_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_net_position",
+  "parent":{
+    "name":"Network",
+    "path":"folders/Scripts/Networking/Network.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_discovery",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_discovery",
+  "parent":{
+    "name":"Connection",
+    "path":"folders/Scripts/Networking/Connection.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
